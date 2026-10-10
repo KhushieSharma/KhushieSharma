@@ -1,150 +1,150 @@
-<!--
-  PROFILE README
-  Create a public repository named exactly: khushiesharma
-  Then paste this into README.md
--->
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:17153B,50:433878,100:7E60BF&text=Khushi%20Sharma&fontSize=48&fontColor=F5F3FF&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Keep%20Growing&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071952,35:088395,70:35A7FF,100:00D9FF&text=Khushi%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20COOL%20THINGS%20WITH%20CODE%20%E2%9C%A8&descSize=15&descAlignY=58&animation=fadeIn" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=MCA+%40+NIT+Kurukshetra+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Exploring+Agentic+AI+%F0%9F%A4%96;Turning+Coffee+%E2%98%95+Into+Code" alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="https://github.com/khushiesharma">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=BCA7FF&center=true&vCenter=true&width=650&lines=MCA+%40+NIT+Kurukshetra+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Exploring+AI+%26+Agentic+Systems+%F0%9F%A4%96;Turning+ideas+into+real+projects+%E2%9C%A8" alt="Typing animation" />
+<img src="https://img.shields.io/badge/GitHub-071952?style=for-the-badge&logo=github&logoColor=00D9FF" />
 </a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-087EA4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=khushiesharma&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-17153B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushiesharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-433878?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=khushiesharma&style=for-the-badge&color=7E60BF&label=PROFILE+VIEWS)](https://github.com/khushiesharma)
+**`Curious mind.` · `Creative builder.` · `Forever learning.`**
 
 </div>
 
 ---
 
-## 𖹭 A little about me
+## 💫 About Me
 
 ```python
 class KhushiSharma:
     def __init__(self):
-        self.education = "MCA @ NIT Kurukshetra"
+        self.education = "MCA @ NIT Kurukshetra 🎓"
         self.role = "Developer & Lifelong Learner"
         self.languages = ["C++", "Python", "JavaScript"]
         self.interests = [
             "Full-Stack Development",
-            "AI & Agentic Systems",
+            "Agentic AI & LLMs",
             "Data Structures & Algorithms",
-            "Building Useful Products"
+            "Building meaningful products"
         ]
-        self.currently_building = ["Web Apps", "AI Projects"]
-        self.fun_fact = "I love turning ideas into reality ✨"
+        self.achievement = "AIR 386 — NIMCET 2025"
+        self.startup = "Punah ♻️"
 
     def motto(self):
-        return "Learn deeply. Build boldly. Improve daily."
+        return "Learn. Build. Break. Debug. Repeat. 🚀"
 ```
 
-- 🎓 Pursuing my MCA at **NIT Kurukshetra**.
+- 🎓 Pursuing MCA at **NIT Kurukshetra**.
+- 💻 Building full-stack applications with modern web technologies.
+- 🤖 Exploring **Agentic AI, LLMs, and intelligent workflows**.
+- 🧩 Solved **500+ coding problems** across coding platforms.
 - 🏆 Secured **AIR 386 in NIMCET 2025**.
-- 💻 Built full-stack applications with the MERN stack and modern web technologies.
-- 🌱 Exploring **AI agents, LangGraph, and LLM-powered applications**.
 - ♻️ Co-founded **Punah**, a sustainable fashion startup transforming pre-loved sarees into contemporary apparel.
-- 🧩 Solved **500+ coding problems** across programming platforms.
-- 🎯 I enjoy building things that are useful, thoughtful, and a little different.
 
 ---
 
-## ✦ My tech universe
+## ⚡ Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
 
-**Frontend & Backend**
+### Frontend & Backend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,flask,fastapi" />
 
-**Databases & Developer Tools**
+### Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,vscode,postman" />
 
-**AI / ML & Other Tools**
+### AI, ML & Environment
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,jupyter,linux" />
+<img src="https://skillicons.dev/icons?i=sklearn,jupyter,linux" />
 
 </div>
 
 ---
 
-## ✧ Things I've built
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 StudyBuddy
+<h3>📚 StudyBuddy</h3>
 
-A full-stack AI study companion designed to make learning more organized and productive.
+A full-stack AI study companion designed to make learning more productive.
 
-- 🍅 Pomodoro timer and productivity tracking
+- 🍅 Pomodoro timer and goal tracking
+- 📊 Productivity analytics and journaling
 - 🔐 JWT authentication and role-based access
 - ⚡ Real-time notifications with Socket.IO
 - 👁️ Browser-based drowsiness detection
+- 📢 Automated institute notice scraping
 
-**Stack:** MERN · Socket.IO · JWT · FaceAPI.js
+**Built with:** MERN · JWT · Socket.IO · FaceAPI.js
 
-[↗ Explore the repository](https://github.com/KhushieSharma/studybuddy)
+<a href="https://github.com/KhushieSharma/studybuddy">↗ View Repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ♻️ Punah
+<h3>♻️ Punah</h3>
 
-A sustainable fashion startup reimagining pre-loved sarees as contemporary apparel.
+A sustainable fashion startup giving pre-loved sarees a new life through contemporary apparel.
 
-- 🌿 Circular fashion and textile reuse
-- 🛍️ Customer and admin experiences
-- 📦 Product, inventory, and order management
-- 💳 Online payments and custom upcycling requests
+- 🌱 Circular fashion and textile reuse
+- 🛍️ Customer and admin portals
+- 📦 Product, inventory and order management
+- ✨ Custom upcycling requests
+- 💳 Online payments and cloud media storage
 
-**Stack:** Next.js · React · SQL · Cloudinary · Razorpay
-
-*Building technology with a purpose.*
+**Built with:** Next.js · React · SQL · Cloudinary · Razorpay
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 SecureVault
+<h3>🔐 SecureVault</h3>
 
-A secure password manager focused on protecting and organizing credentials.
+A password manager focused on secure credential storage and convenient access.
 
-- 🔑 Authentication and password management
-- 🛡️ AES-256 encryption for stored credentials
-- 🎲 Password generation and strength analysis
+- 🛡️ AES-256 credential encryption
+- 🔑 Authentication and master-password protection
+- 🎲 Password generator and strength analyzer
 - 🔎 Search and duplicate-password detection
 
-**Stack:** MERN · JWT · AES-256 · bcrypt
+**Built with:** MERN · JWT · AES-256 · bcrypt
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Agentic AI Lab
+<h3>🤖 Agentic AI Lab</h3>
 
-An evolving collection of experiments in AI-powered applications and autonomous workflows.
+An evolving space for experimenting with AI agents and intelligent automation.
 
-- 🧠 Exploring LLM-powered agents
-- 🔗 Learning LangGraph and tool calling
+- 🧠 LLM-powered applications
+- 🔗 LangGraph and tool-calling experiments
 - 🔍 Research and information retrieval workflows
-- ⚙️ Experimenting with multi-step automation
+- ⚙️ Multi-step agent orchestration
 
-**Stack:** Python · LangChain · LangGraph · Groq
+**Exploring:** Python · LangChain · LangGraph · Groq
 
-*More experiments coming soon.*
+*More experiments coming soon!*
 
 </td>
 </tr>
@@ -152,52 +152,50 @@ An evolving collection of experiments in AI-powered applications and autonomous 
 
 ---
 
-## ⌘ GitHub at a glance
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/khushiesharma">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khushiesharma&show_icons=true&hide_border=true&bg_color=17153B&title_color=BCA7FF&text_color=E8E5F5&icon_color=9B8AFB&ring_color=BCA7FF" alt="GitHub statistics" />
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=khushiesharma&show_icons=true&hide_border=true&bg_color=071952&title_color=00D9FF&text_color=E0F2FE&icon_color=38BDF8&ring_color=00D9FF" alt="GitHub Stats" />
 </a>
-
 <a href="https://github.com/khushiesharma">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiesharma&layout=compact&hide_border=true&bg_color=17153B&title_color=BCA7FF&text_color=E8E5F5" alt="Most used languages" />
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiesharma&layout=compact&hide_border=true&bg_color=071952&title_color=00D9FF&text_color=E0F2FE" alt="Top Languages" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=khushiesharma&hide_border=true&background=17153B&ring=BCA7FF&fire=F4A7C5&currStreakLabel=BCA7FF&sideLabels=E8E5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A7A0C5" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=khushiesharma&hide_border=true&background=071952&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF&sideLabels=BAE6FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=93C5FD" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=khushiesharma&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## ☁️ Beyond the code
+## 🌊 Beyond the Code
 
-I believe the best developers never stop being students.
-
-When I'm not coding, I'm probably solving a DSA problem, exploring a new technology, experimenting with an AI workflow, or brainstorming ways to make an idea into a real product.
+- 📚 **Learning:** Agentic AI, system design, and backend engineering.
+- 🎯 **Improving:** DSA, problem-solving, and writing clean, maintainable code.
+- 💡 **Building:** Projects that combine creativity, technology, and real-world usefulness.
+- 🌱 **Believing:** Consistency beats perfection.
 
 <div align="center">
 
-**Currently learning** · Agentic AI & system design
-
-**Currently improving** · DSA, backend engineering & clean code
-
-**Always chasing** · Better ideas, meaningful projects & consistent growth
-
-<br/>
-
-### Let's build something meaningful. 💜
+### 💙 Let's connect and build something awesome!
 
 <a href="https://github.com/khushiesharma">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-433878?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-071952?style=for-the-badge&logo=github&logoColor=00D9FF" />
 </a>
 
 <br/><br/>
 
-*"Small commits. Big dreams. One line at a time."*
+*“Dream in ideas. Think in algorithms. Build with purpose.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E60BF,50:433878,100:17153B&height=100&section=footer" width="100%" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:35A7FF,75:088395,100:071952&height=120&section=footer" />
 
 </div>
