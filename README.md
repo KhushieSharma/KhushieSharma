@@ -1,201 +1,113 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071952,35:088395,70:35A7FF,100:00D9FF&text=Khushi%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20COOL%20THINGS%20WITH%20CODE%20%E2%9C%A8&descSize=15&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1F3A,50:075985,100:0284C7&text=Khushi%20Sharma&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=MCA%20%40%20NIT%20Kurukshetra%20%7C%20Software%20Developer&descSize=16&descAlignY=70" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=MCA+%40+NIT+Kurukshetra+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Exploring+Agentic+AI+%F0%9F%A4%96;Turning+Coffee+%E2%98%95+Into+Code" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://github.com/khushiesharma">
-<img src="https://img.shields.io/badge/GitHub-071952?style=for-the-badge&logo=github&logoColor=00D9FF" />
+<a href="https://www.linkedin.com/in/khushi-sharma2911/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-087EA4?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://leetcode.com/u/khushisharma29/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=khushiesharma&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
+<a href="https://github.com/KhushieSharma">
+<img src="https://img.shields.io/badge/GitHub-Repositories-24292F?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-<br/>
+</div>
 
-**`Curious mind.` · `Creative builder.` · `Forever learning.`**
+## About
+
+MCA student at **NIT Kurukshetra** with a strong foundation in data structures and algorithms, full-stack development, and machine learning. I enjoy building practical applications, exploring AI-powered systems, and turning ideas into usable products.
+
+- 🎓 MCA, National Institute of Technology Kurukshetra
+- 🏆 AIR 386 — NIMCET 2025
+- 💻 Solved 500+ coding problems across programming platforms
+- ♻️ Co-founded Punah, a sustainable fashion startup focused on upcycling pre-loved sarees
+- 🤖 Currently exploring agentic AI, LLMs, and intelligent workflows
+
+## Technical Skills
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI & Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+## Selected Projects
+
+### StudyBuddy — AI-Powered Study Platform
+
+A full-stack learning and productivity platform built to help students organize their study routines.
+
+- Implemented Pomodoro sessions, journaling, goal tracking, analytics, and personalized recommendations.
+- Developed REST APIs with JWT authentication, role-based access control, and scheduled jobs.
+- Integrated Socket.IO notifications, browser-based drowsiness detection, and automated institute notice scraping.
+
+**Tech:** MongoDB · Express.js · React · Node.js · JWT · Socket.IO
+
+[View repository →](https://github.com/KhushieSharma/studybuddy)
+
+### Punah — Sustainable Fashion
+
+Co-founded a sustainable fashion initiative that transforms pre-loved sarees into contemporary apparel.
+
+- Developing customer and admin experiences for product discovery and operations.
+- Working on inventory, order management, custom upcycling requests, and online payments.
+- Using cloud media storage and modern web technologies to support the platform.
+
+**Tech:** Next.js · React · SQL · Cloudinary · Razorpay
+
+### SecureVault — Password Manager
+
+A password management application focused on credential security and usability.
+
+- Implemented authentication and encrypted credential storage.
+- Added password generation, strength analysis, search, and duplicate-password detection.
+- Used password hashing for master-password protection.
+
+**Tech:** MongoDB · Express.js · React · Node.js · JWT · AES-256 · bcrypt
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhushieSharma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushieSharma&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
 ---
 
-## 💫 About Me
-
-```python
-class KhushiSharma:
-    def __init__(self):
-        self.education = "MCA @ NIT Kurukshetra 🎓"
-        self.role = "Developer & Lifelong Learner"
-        self.languages = ["C++", "Python", "JavaScript"]
-        self.interests = [
-            "Full-Stack Development",
-            "Agentic AI & LLMs",
-            "Data Structures & Algorithms",
-            "Building meaningful products"
-        ]
-        self.achievement = "AIR 386 — NIMCET 2025"
-        self.startup = "Punah ♻️"
-
-    def motto(self):
-        return "Learn. Build. Break. Debug. Repeat. 🚀"
-```
-
-- 🎓 Pursuing MCA at **NIT Kurukshetra**.
-- 💻 Building full-stack applications with modern web technologies.
-- 🤖 Exploring **Agentic AI, LLMs, and intelligent workflows**.
-- 🧩 Solved **500+ coding problems** across coding platforms.
-- 🏆 Secured **AIR 386 in NIMCET 2025**.
-- ♻️ Co-founded **Punah**, a sustainable fashion startup transforming pre-loved sarees into contemporary apparel.
-
----
-
-## ⚡ Tech Stack
-
 <div align="center">
 
-### Languages
+*Interested in software engineering, full-stack development, and applied AI.*
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
-
-### Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,flask,fastapi" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,vscode,postman" />
-
-### AI, ML & Environment
-
-<img src="https://skillicons.dev/icons?i=sklearn,jupyter,linux" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>📚 StudyBuddy</h3>
-
-A full-stack AI study companion designed to make learning more productive.
-
-- 🍅 Pomodoro timer and goal tracking
-- 📊 Productivity analytics and journaling
-- 🔐 JWT authentication and role-based access
-- ⚡ Real-time notifications with Socket.IO
-- 👁️ Browser-based drowsiness detection
-- 📢 Automated institute notice scraping
-
-**Built with:** MERN · JWT · Socket.IO · FaceAPI.js
-
-<a href="https://github.com/KhushieSharma/studybuddy">↗ View Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>♻️ Punah</h3>
-
-A sustainable fashion startup giving pre-loved sarees a new life through contemporary apparel.
-
-- 🌱 Circular fashion and textile reuse
-- 🛍️ Customer and admin portals
-- 📦 Product, inventory and order management
-- ✨ Custom upcycling requests
-- 💳 Online payments and cloud media storage
-
-**Built with:** Next.js · React · SQL · Cloudinary · Razorpay
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔐 SecureVault</h3>
-
-A password manager focused on secure credential storage and convenient access.
-
-- 🛡️ AES-256 credential encryption
-- 🔑 Authentication and master-password protection
-- 🎲 Password generator and strength analyzer
-- 🔎 Search and duplicate-password detection
-
-**Built with:** MERN · JWT · AES-256 · bcrypt
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🤖 Agentic AI Lab</h3>
-
-An evolving space for experimenting with AI agents and intelligent automation.
-
-- 🧠 LLM-powered applications
-- 🔗 LangGraph and tool-calling experiments
-- 🔍 Research and information retrieval workflows
-- ⚙️ Multi-step agent orchestration
-
-**Exploring:** Python · LangChain · LangGraph · Groq
-
-*More experiments coming soon!*
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/khushiesharma">
-<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=khushiesharma&show_icons=true&hide_border=true&bg_color=071952&title_color=00D9FF&text_color=E0F2FE&icon_color=38BDF8&ring_color=00D9FF" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/khushiesharma">
-<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushiesharma&layout=compact&hide_border=true&bg_color=071952&title_color=00D9FF&text_color=E0F2FE" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=khushiesharma&hide_border=true&background=071952&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF&sideLabels=BAE6FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=93C5FD" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=khushiesharma&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🌊 Beyond the Code
-
-- 📚 **Learning:** Agentic AI, system design, and backend engineering.
-- 🎯 **Improving:** DSA, problem-solving, and writing clean, maintainable code.
-- 💡 **Building:** Projects that combine creativity, technology, and real-world usefulness.
-- 🌱 **Believing:** Consistency beats perfection.
-
-<div align="center">
-
-### 💙 Let's connect and build something awesome!
-
-<a href="https://github.com/khushiesharma">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-071952?style=for-the-badge&logo=github&logoColor=00D9FF" />
-</a>
-
-<br/><br/>
-
-*“Dream in ideas. Think in algorithms. Build with purpose.”*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:35A7FF,75:088395,100:071952&height=120&section=footer" />
+<a href="https://www.linkedin.com/in/khushi-sharma2911/">LinkedIn</a> · <a href="https://leetcode.com/u/khushisharma29/">LeetCode</a> · <a href="https://github.com/KhushieSharma">GitHub</a>
 
 </div>
